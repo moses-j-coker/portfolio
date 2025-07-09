@@ -55,3 +55,26 @@ a {
 .navbar ul li.active a {
   color: #6151f3;
 }
+
+section {
+  padding: 100px 9%;
+  margin-top: 40px;
+}
+
+section h1 {
+  text-align: center;
+  font-size: 36px;
+  margin-bottom: 20px;
+  color: #fff;
+}
+section p {
+  text-align: center;
+  font-size: 18px;
+  color: #ccc;
+}
+section img {
+  max-width: 100%;
+  height: auto;
+  display: block;
+  margin: 0 auto;
+}
